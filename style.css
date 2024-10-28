@@ -4,8 +4,8 @@ html {
   }
   
 body {
-  background-color: aqua;
-  background-size: cover;
+  background-image: url("imgs/bg.jpg");
+    background-size: cover;
   text-align: center;
   }
 
@@ -68,4 +68,14 @@ height: 1px;
 border: none;
 background-color: #000000;
 opacity: 1;
+}
+
+.second{
+  padding: 30px 100px 100px 50px;
+}
+
+.pinyon-script-regular {
+  font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
