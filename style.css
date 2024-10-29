@@ -86,13 +86,14 @@ opacity: 1;
   font-style: normal;
 }
 
-
 h1{
-  font-family: "Pinyon Script"
+  font-family: "Pinyon Script", serif;
 }
+
 h3{
-  font-family: "Pinyon Script"
+  font-family: "Pinyon Script", serif;
 }
+
 h5{
-  font-family: "Pinyon Script"
+  font-family: "Pinyon Script", serif;
 }
