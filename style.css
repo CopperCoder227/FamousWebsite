@@ -30,6 +30,11 @@ body {
   width: 75%;
 }
 
+.imgsD{
+  height: 50%;
+  width: 50%;
+}
+
 .btn {
   background: rgb(255, 255, 255);
   background-image: -webkit-linear-gradient(top, #a89803, #000000);
